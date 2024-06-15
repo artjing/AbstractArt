@@ -12,8 +12,8 @@ font_path = '/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf'
 
 
 # Clear out the results folder if it exists
-if os.path.exists(results_dir):
-    os.system(f"rm -r {results_dir}")
+#if os.path.exists(results_dir):
+#    os.system(f"rm -r {}")
 
 
 # Generate seed and arguments
